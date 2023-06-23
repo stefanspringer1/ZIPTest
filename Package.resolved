@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "csprogress",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gregcotten/CSProgress",
+      "state" : {
+        "branch" : "non-apple-compat",
+        "revision" : "b831bb234a8a2af02ccc04d6e91a62f7dabb7de4"
+      }
+    },
+    {
+      "identity" : "swift-system",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-system",
+      "state" : {
+        "revision" : "025bcb1165deab2e20d4eaba79967ce73013f496",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "zipfoundationmodern",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gregcotten/ZIPFoundationModern.git",
+      "state" : {
+        "branch" : "development",
+        "revision" : "183eb4bfc313e491858d52c95d5c684cb8320430"
+      }
+    }
+  ],
+  "version" : 2
+}
