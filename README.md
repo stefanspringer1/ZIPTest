@@ -1,2 +1,3 @@
 # ZIPTest
-Testing the (to be) used ZIP library
+
+Testing the ZIPFoundationModern library.
