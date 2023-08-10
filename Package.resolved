@@ -3,10 +3,10 @@
     {
       "identity" : "csprogress",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/gregcotten/CSProgress",
+      "location" : "https://github.com/stefanspringer1/CSProgress",
       "state" : {
-        "branch" : "non-apple-compat",
-        "revision" : "b831bb234a8a2af02ccc04d6e91a62f7dabb7de4"
+        "revision" : "b831bb234a8a2af02ccc04d6e91a62f7dabb7de4",
+        "version" : "0.0.1"
       }
     },
     {
@@ -21,10 +21,10 @@
     {
       "identity" : "zipfoundationmodern",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/gregcotten/ZIPFoundationModern.git",
+      "location" : "https://github.com/stefanspringer1/ZIPFoundationModern",
       "state" : {
-        "branch" : "development",
-        "revision" : "183eb4bfc313e491858d52c95d5c684cb8320430"
+        "revision" : "63f5077ee61622608a9c7f2e5300ed23a22aa4e0",
+        "version" : "0.0.1"
       }
     }
   ],

@@ -9,7 +9,7 @@ let package = Package(
         .macOS(.v11),
     ],
     dependencies: [
-        .package(url: "https://github.com/gregcotten/ZIPFoundationModern.git", branch: "development")
+        .package(url: "https://github.com/stefanspringer1/ZIPFoundationModern", from: "0.0.1")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
