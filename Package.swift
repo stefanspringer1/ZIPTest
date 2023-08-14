@@ -9,7 +9,8 @@ let package = Package(
         .macOS(.v11),
     ],
     dependencies: [
-        .package(url: "https://github.com/stefanspringer1/ZIPFoundationModern", from: "0.0.1")
+        //.package(url: "https://github.com/stefanspringer1/ZIPFoundationModern", from: "0.0.1")
+        .package(url: "https://github.com/stefanspringer1/ZIPFoundationModern", revision: "63f5077ee61622608a9c7f2e5300ed23a22aa4e0")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
